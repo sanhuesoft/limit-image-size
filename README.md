@@ -1,2 +1,4 @@
 # limit-image-sizes
-Un snippet para Obsidian que permite limitar el tamaño de las imágenes (por ancho o alto) según su orientación (landscape o portrait).
+This snippet allows you to limit images' size in Obsidian according to their orientation (be it landscape or portrait). It also centers the images using the margin parameter.
+
+Este snippet te permite limitar el tamaño de las imágenes en Obsidian de acuerdo a su orientación (paisaje o retrato).  Además, centra las imágenes usando el parámetro margen.

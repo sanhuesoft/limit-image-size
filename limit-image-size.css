@@ -1,0 +1,22 @@
+/* 
+AGPLv3 License
+Limit Image Size
+Author: sanhuesoft
+*/
+
+:root {
+	/* Set a maximum width for embedded images */
+	--max-width: 250px;
+	/* Set a maximum height for embedded images */
+	--max-height: 250px;
+}
+
+.image-embed img {
+	display: block;
+	max-width: var(--max-width);
+	max-height: var(--max-height);
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	border-radius: 8px;
+}
